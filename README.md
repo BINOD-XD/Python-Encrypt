@@ -30,7 +30,7 @@ cd Python-Encrypt
 ls
 ```
 ```
-python rxs_encrypt.py
+python rxs_enc.py
 ```
 
 # Acknowledgements
