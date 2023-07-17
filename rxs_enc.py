@@ -4,4 +4,4 @@ os.system("git pull")
 
 
 import rxsenc
-rxsenMainMenu()
+rxsenc.MainMenu()
